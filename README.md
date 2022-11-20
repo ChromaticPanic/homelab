@@ -1,6 +1,5 @@
 # homelab
-One of my longest projects a distributed network of systems
-
+One of my longest projects, a distributed network of Windows and Linux hosts which provide dockerized services. and some, virtual machines
 ## Block Diagram
 
 
