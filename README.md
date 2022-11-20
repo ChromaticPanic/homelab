@@ -5,3 +5,9 @@ One of my longest projects, a distributed network of Windows and Linux hosts whi
 
 ## Server Monitoring for one machine hosting multiple dockerized services
 ![netdata](sys.JPG)
+
+## Media Request Service
+![requets](request.jpg)
+
+## Tensorflow Jupyter Lab Server
+![lab](jupyter.jpg)
